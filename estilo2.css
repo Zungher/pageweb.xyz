@@ -1,0 +1,10 @@
+table,td, th {
+	border: 2px solid black;
+}
+
+table    {
+	background: #43C6AC;  
+background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);  
+background: linear-gradient(to right, #F8FFAE, #43C6AC);
+
+}
