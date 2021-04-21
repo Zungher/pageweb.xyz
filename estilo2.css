@@ -1,8 +1,3 @@
-body {
-  background-color: #F9FD7A;
-}
-
-
 table,td, th {
 	border: 2px solid black;
 }
@@ -13,3 +8,8 @@ background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);
 background: linear-gradient(to right, #F8FFAE, #43C6AC);
 
 }
+body {
+  background-color: #F9FD7A;
+}
+
+
