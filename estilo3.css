@@ -16,3 +16,27 @@ nav a{
     background-color:#fff;
     color:#000;
     }
+table{
+    table-layout: fixed;
+    width: 250px;
+}
+
+th, td {
+    border: 1px solid blue;
+    width: 200px;
+    word-wrap: break-word;
+}
+
+table,td, th {
+	border: 2px solid black;
+}
+
+table    {
+	background: #43C6AC;  
+background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);  
+background: linear-gradient(to right, #F8FFAE, #43C6AC);
+
+}
+body {
+  background-color: #F9FD7A;
+}
