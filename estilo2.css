@@ -23,12 +23,12 @@ background: linear-gradient(to right, #F8FFAE, #43C6AC);
 body {
   background-color: #F9FD7A;
 
-	nav a{
+nav a{
     text-decoration:none;
     color:inherit;
     font-size:14px;
     } 
-    nav li{
+nav li{
     display:inline-block;
     width:15%;
     padding:10px;
@@ -37,7 +37,7 @@ body {
     text-align:center;
     color:#fff;
     }
-    nav li:hover{
+nav li:hover{
     background-color:#fff;
     color:#000;
     }
