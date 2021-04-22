@@ -1,4 +1,22 @@
-}
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+nav li{
+    display:inline-block;
+    width:15%;
+    padding:10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
+nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+
 table{
     table-layout: fixed;
     width: 250px;
@@ -23,21 +41,3 @@ background: linear-gradient(to right, #F8FFAE, #43C6AC);
 body {
   background-color: #F9FD7A;
 }
-nav a{
-    text-decoration:none;
-    color:inherit;
-    font-size:14px;
-    } 
-nav li{
-    display:inline-block;
-    width:15%;
-    padding:10px;
-    background-color:#000;
-    border:1px solid #000;
-    text-align:center;
-    color:#fff;
-    }
-nav li:hover{
-    background-color:#fff;
-    color:#000;
-    }
